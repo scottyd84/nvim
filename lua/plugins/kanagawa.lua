@@ -3,7 +3,8 @@ return {
   config = function ()
     require('kanagawa').setup({
       compile=true,
-      transparent=true
+      transparent=true,
+      theme = "dragon",
     })
     vim.cmd("colorscheme kanagawa");
  end,
