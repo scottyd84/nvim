@@ -5,7 +5,6 @@
   "mini.icons": { "branch": "main", "commit": "efc85e42262cd0c9e1fdbf806c25cb0be6de115c" },
   "mini.statusline": { "branch": "stable", "commit": "14919901649d20d020e659c63c03baa75cd94f33" },
   "nvim-treesitter": { "branch": "main", "commit": "2ba5ec184609a96b513bf4c53a20512d64e27f39" },
-  "nvim-treesitter-textobjects": { "branch": "master", "commit": "5ca4aaa6efdcc59be46b95a3e876300cfead05ef" },
   "oil.nvim": { "branch": "master", "commit": "81b8a91735ad5cd24a6b3137f14a89f19176364f" },
   "showkeys": { "branch": "main", "commit": "cb0a50296f11f1e585acffba8c253b9e8afc1f84" },
   "vim-sleuth": { "branch": "master", "commit": "be69bff86754b1aa5adcbb527d7fcd1635a84080" }
