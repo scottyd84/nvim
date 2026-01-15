@@ -10,8 +10,8 @@ return {
   opts = {},
     keys = {
       -- open fzf-lua
-      { "<leader>f", "<cmd>FzfLua files<cr>", desc = "Files (FzfLua)" },
-      { "<leader>F", "<cmd>FzfLua live_grep<cr>", desc = "Grep (FzfLua)" },
+      { "<leader>fz", "<cmd>FzfLua files<cr>", desc = "Files (FzfLua)" },
+      { "<leader>Fz", "<cmd>FzfLua live_grep<cr>", desc = "Grep (FzfLua)" },
     },
   ---@diagnostic enable: missing-fields
 }
